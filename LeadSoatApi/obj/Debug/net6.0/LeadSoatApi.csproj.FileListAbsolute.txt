@@ -1,0 +1,341 @@
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\appsettings.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.exe
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.deps.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.runtimeconfig.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.AssemblyReference.cache
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfoInputs.cache
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfo.cs
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CoreCompileInputs.cache
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\scopedcss\bundle\LeadSoatApi.styles.css
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CopyComplete
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\refint\LeadSoatApi.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.genruntimeconfig.cache
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\obj\Debug\net6.0\ref\LeadSoatApi.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG-LAP047\Documents\Fuentes\LeadsSoat\LeadSoatApi\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.exe
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.deps.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.runtimeconfig.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.AssemblyReference.cache
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfoInputs.cache
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfo.cs
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CoreCompileInputs.cache
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.LeadSoatApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LeadSoatApi.props
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeadSoatApi.props
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeadSoatApi.props
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\scopedcss\bundle\LeadSoatApi.styles.css
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CopyComplete
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\refint\LeadSoatApi.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.genruntimeconfig.cache
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\ref\LeadSoatApi.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\JsonSubTypes.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\lguerra\Desktop\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\appsettings.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.exe
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.deps.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.runtimeconfig.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\JsonSubTypes.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.AssemblyReference.cache
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfoInputs.cache
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfo.cs
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CoreCompileInputs.cache
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.LeadSoatApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LeadSoatApi.props
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeadSoatApi.props
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeadSoatApi.props
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\scopedcss\bundle\LeadSoatApi.styles.css
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CopyComplete
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\refint\LeadSoatApi.dll
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.genruntimeconfig.cache
+C:\Users\MateriaGris\Desktop\Leonardo-Chavesta-Torres\lead soud\LeadsSoat\LeadSoatApi\obj\Debug\net6.0\ref\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\appsettings.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.exe
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.deps.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.runtimeconfig.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\JsonSubTypes.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.AssemblyReference.cache
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfoInputs.cache
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfo.cs
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CoreCompileInputs.cache
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.LeadSoatApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\scopedcss\bundle\LeadSoatApi.styles.css
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CopyComplete
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\refint\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.genruntimeconfig.cache
+C:\Users\cvasquez\Desktop\LEADS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\ref\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\appsettings.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.exe
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.deps.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.runtimeconfig.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\JsonSubTypes.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.AssemblyReference.cache
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfoInputs.cache
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.AssemblyInfo.cs
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CoreCompileInputs.cache
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.LeadSoatApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LeadSoatApi.props
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\scopedcss\bundle\LeadSoatApi.styles.css
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.csproj.CopyComplete
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\refint\LeadSoatApi.dll
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.pdb
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\LeadSoatApi.genruntimeconfig.cache
+C:\Users\cvasquez\Desktop\PROYECTOS MG-DANIEL\PROYECTO GENESYS\LeadsSoat-devAutoContacts\LeadSoatApi\obj\Debug\net6.0\ref\LeadSoatApi.dll
